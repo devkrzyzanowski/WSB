@@ -83,13 +83,17 @@ namespace zadFunkcje
         {
             return a + (n - 1) + 4;
         }
-        private float zad11()
+        private int zad11(DateTime first, DateTime acc)
         {
-            return 0f;
+            TimeSpan ts = acc.Subtract(first);
+            return Convert.ToInt32(ts.Days / 365);
         }
-        private long zad16(long val)
+        private Boolean zad13(float a, float b, float c) //10, 4, 9
         {
-            
+            float[] values = new float[3] { a, b, c };
+            Array.Sort(values);
+            return (Math.Pow(values[0], 2) + Math.Pow(values[1], 2) == Math.Pow(values[2], 2)) ? true : false;
         }
+
     }
 }

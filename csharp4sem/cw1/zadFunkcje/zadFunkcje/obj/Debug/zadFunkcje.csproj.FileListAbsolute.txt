@@ -1,1 +1,7 @@
 c:\users\studentwsb\documents\visual studio 2013\Projects\zadFunkcje\zadFunkcje\bin\Debug\zadFunkcje.exe.config
+C:\Users\studentwsb\Documents\GitHub\WSB\csharp4sem\cw1\zadFunkcje\zadFunkcje\bin\Debug\zadFunkcje.exe.config
+C:\Users\studentwsb\Documents\GitHub\WSB\csharp4sem\cw1\zadFunkcje\zadFunkcje\obj\Debug\zadFunkcje.csprojResolveAssemblyReference.cache
+C:\Users\studentwsb\Documents\GitHub\WSB\csharp4sem\cw1\zadFunkcje\zadFunkcje\bin\Debug\zadFunkcje.exe
+C:\Users\studentwsb\Documents\GitHub\WSB\csharp4sem\cw1\zadFunkcje\zadFunkcje\bin\Debug\zadFunkcje.pdb
+C:\Users\studentwsb\Documents\GitHub\WSB\csharp4sem\cw1\zadFunkcje\zadFunkcje\obj\Debug\zadFunkcje.exe
+C:\Users\studentwsb\Documents\GitHub\WSB\csharp4sem\cw1\zadFunkcje\zadFunkcje\obj\Debug\zadFunkcje.pdb
